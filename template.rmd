@@ -1,6 +1,8 @@
 ---
 title: "Simple document"
-output: html_document
+output:
+  html_document:
+     toc: true
 ---
 
 I'm an R Markdown document! 
